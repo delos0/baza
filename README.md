@@ -1,3 +1,4 @@
-# My New Project
+## Important
+When cloning, make sure to fetch submodules:
+```git clone --recursive <repo>
 
-A brief description of the project and how to run it.
