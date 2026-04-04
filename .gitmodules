@@ -1,3 +1,6 @@
 [submodule "hw/cv32e40p"]
 	path = hw/cv32e40p
 	url = https://github.com/openhwgroup/cv32e40p
+[submodule "hw/pulp_platform/tech_cells_generic"]
+	path = hw/pulp_platform/tech_cells_generic
+	url = git@github.com:pulp-platform/tech_cells_generic.git
